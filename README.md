@@ -3,7 +3,7 @@
  iPad. It includes a TTS service using VoiceRSS, the aduio is streamed directly.
  The project is entirely made in Unity3D using C#.Net
  
- Changes as of Build 3
+ $ Changes as of Build 3
   - Added ability to api of VoiceRSS TTS service
   - Added Interactive Car that can be driven in AR
   - Replaced the cat with the car
